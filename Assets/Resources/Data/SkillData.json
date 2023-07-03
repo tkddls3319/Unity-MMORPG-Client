@@ -1,0 +1,47 @@
+{
+  "stats": [
+    {
+      "level": "1",
+      "maxHp": "200",
+      "attack": "20",
+      "totalExp": "0"
+    },
+    {
+      "level": "2",
+      "maxHp": "250",
+      "attack": "25",
+      "totalExp": "10"
+    },
+    {
+      "level": "3",
+      "maxHp": "300",
+      "attack": "30",
+      "totalExp": "20"
+    }
+  ],
+
+  "skill": [
+    {
+      "id": "1",
+      "name": "1",
+      "cooldown": "1",
+      "damage": "1",
+      "skillType": "SkillAuto"
+    },
+    {
+      "id": "2",
+      "name": "2",
+      "cooldown": "2",
+      "damage": "2",
+      "skillType": "SkillProjectile",
+      "projectile": {
+        "name": "1",
+        "speed": "2",
+        "range": "2",
+        "prefab": "Creature/Arrow"
+      }
+    }
+
+  ]
+
+}

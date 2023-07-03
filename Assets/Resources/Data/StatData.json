@@ -1,0 +1,20 @@
+{
+  "stats": [
+    {
+      "level": "1",
+      "hp": "10",
+      "maxHp": "200",
+      "attack": "20",
+      "speed": "10",
+      "totalExp": "0"
+    },
+    {
+      "level": "2",
+      "hp": "10",
+      "maxHp": "200",
+      "attack": "20",
+      "speed": "10",
+      "totalExp": "0"
+    }
+  ]
+} 
